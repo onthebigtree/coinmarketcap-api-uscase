@@ -18,4 +18,4 @@
 
 ### 4. 复制并粘贴脚本
 
-将 ``main.js`` 的代码复制并粘贴到 Google Apps Script 编辑器中：
+将 ``main.js`` 的代码复制并粘贴到 Google Apps Script 编辑器中,然后替换你的 API 进去，就可以成功部署。
